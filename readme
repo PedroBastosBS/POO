@@ -1,0 +1,11 @@
+#Recomendações:
+    #utlizar o php7 ou versões superior, pois nos segundo exercicio utilizo classe e estou usando tipagem do php que está disponivel apartir dessa versão
+    #pode utilizar o xamp por default, porem o php7 possui o proprio servidor para executar basta digitar o comando dentro da pasta do execerico ou seja cd /calculador -> execute do cmg
+    #php -S localhost:8000 -t public isso vale para a web aplication que é a calculadora e o conversor
+    #caso use o xamp basta jogar os arquivos dentro do servidor como os tutorias mostra, e shoowwww
+    #os outros programas mais simples basta entrar na pasta cd /alg/0_pares e executar php /index.php
+## Como instalar o php7^-cli
+    #https://www.php.net/manual/en/install.windows.commandline.php 
+    #siga a documentação oficiar para instalar no windowns 
+    #recomendo o uso de WSL um sub S.O linux que roda no windowns facilita a instalação rsrs
+
