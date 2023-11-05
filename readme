@@ -1,11 +1,11 @@
-#Recomendações:
-    #utlizar o php7 ou versões superior, pois nos segundo exercicio utilizo classe e estou usando tipagem do php que está disponivel apartir dessa versão
-    #pode utilizar o xamp por default, porem o php7 possui o proprio servidor para executar basta digitar o comando dentro da pasta do execerico ou seja cd /calculador -> execute do cmg
-    #php -S localhost:8000 -t public isso vale para a web aplication que é a calculadora e o conversor
-    #caso use o xamp basta jogar os arquivos dentro do servidor como os tutorias mostra, e shoowwww
-    #os outros programas mais simples basta entrar na pasta cd /alg/0_pares e executar php /index.php
-## Como instalar o php7^-cli
-    #https://www.php.net/manual/en/install.windows.commandline.php 
-    #siga a documentação oficiar para instalar no windowns 
-    #recomendo o uso de WSL um sub S.O linux que roda no windowns facilita a instalação rsrs
+# Recomendações:
+- Utilize o PHP 7 ou versões superiores, pois no segundo exercício utilizo classes e estou usando tipagem do PHP que está disponível a partir dessa versão.
+- Você pode utilizar o XAMPP por padrão, no entanto, o PHP 7 possui o seu próprio servidor embutido para execução. Basta digitar o comando dentro da pasta do exercício, ou seja, `cd /calculadora` e execute o seguinte comando no terminal: `php -S localhost:8000 -t public`. Isso também se aplica para a aplicação web, como a calculadora e o conversor.
+- Caso utilize o XAMPP, basta colocar os arquivos dentro do servidor conforme os tutoriais mostram. 
+- Para os outros programas mais simples, basta entrar na pasta `cd /alg/0_pares` e executar `php /index.php`.
+  
+## Como instalar o PHP 7^ - CLI
+- [Documentação oficial para instalação no Windows](https://www.php.net/manual/en/install.windows.commandline.php)
+- Siga a documentação oficial para instalar no Windows.
+- Recomendo o uso de WSL (Windows Subsystem for Linux), um sub sistema Linux que roda no Windows, facilitando a instalação.
 
